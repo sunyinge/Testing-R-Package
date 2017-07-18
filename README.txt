@@ -1,10 +1,10 @@
 # sisbidVitD
 
-The goal of sisbidVitD is to ...
+The goal of sisbidVitD is to blabla…
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This is one basic example which shows you how to solve a common problem:
 
 ``` r
 ## basic example code
